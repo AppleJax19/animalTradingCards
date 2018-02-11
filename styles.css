@@ -1,0 +1,43 @@
+body {
+  font-family: Helvetica, Ariel, sans-serif;
+}
+
+.name {
+  text-align: center;
+  margin: 5px;
+}
+
+.picture {
+  border-radius: 8px;
+}
+
+.list {
+  list-style:none;
+}
+
+.item {
+  margin-left: -40px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.fun-fact {
+  font-style: italic;
+}
+
+.info {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+#card {
+  background: linear-gradient(to bottom right, #bbb0be, #6f6f82);
+  border: 2px solid black;
+  width: 300px;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 10px;
+}
